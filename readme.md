@@ -29,5 +29,8 @@
 
 ***
 
+### 参考
+> https://wiki.osdev.org/Category:ACPI
+
 </br></br>
 <div align="right">2022年4月23日 于重庆</div>
